@@ -28,6 +28,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRDSSBBRSIsDQogICJhZGQiOiAiaXB2NmFlLnZj
 trojan://WEIem08l05qP@hk.varvps.com:9443?security=tls&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%E4%B8%89%E7%BD%91%E5%9B%9E%E7%A8%8BCN2GIA
 trojan://WEIem08l05qP@jp.varvps.com:9443?security=tls&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%E4%B8%89%E7%BD%91%E5%9B%9E%E7%A8%8BCN2GIA
 trojan://WEIem08l05qP@us.varvps.com:9443?security=tls&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%E4%B8%89%E7%BD%91%E5%9B%9E%E7%A8%8BCN2GIA
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldEpldHQgVVMiLA0KICAiYWRkIjogImlwdjZ1czIudmNjdi5ueWMubW4iLA0KICAicG9ydCI6ICIzMTQwNSIsDQogICJpZCI6ICJkYTI5NzBlYy1iOGU4LTRmNTMtODQ2OC04ZGI2ZDliOWE1ZjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 `;
 
 let urls = [];
@@ -828,6 +829,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
