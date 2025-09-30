@@ -29,7 +29,9 @@ hysteria2://ohuEEw3j3Gu9Xy3k3puRMiOMU@44.248.59.199:34452?sni=bing.com&insecure=
 hysteria2://h4zyPJ57tYlE7ibUWilUQiGcMgI@35.88.70.218:15575?sni=bing.com&insecure=1#US-ISP-2
 hysteria2://lnceB65MNXHPbEXXf3y6aQQ5R4@54.70.55.105:33564?sni=bing.com&insecure=1#US-ISP-3
 vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=5AyK6vk9X1Srkv_Dwu441iyiV4D2nxRtPS5_AgOGkyc&sid=c68ad17061252d77&type=tcp&headerType=none#VMRack%20US
-
+hysteria2://CgZ1HGtFSifpPeYo0hcj2L33azM@8.209.224.182:32761?sni=bing.com&insecure=1#JP-Aliyun-1
+hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=1#JP-Aliyun-2
+hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
 `;
 
 let urls = [];
@@ -830,6 +832,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
