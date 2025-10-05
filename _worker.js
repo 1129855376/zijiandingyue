@@ -34,7 +34,7 @@ hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=
 hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
 https://azsg.cfapps.ap21.hana.ondemand.com/lvc123456
 https://gcp-ustsjfuw.cfapps.us30.hana.ondemand.com/lvc123456
-https://aws-sgvxocvv.cfapps.ap11.hana.ondemand.com/lvc123456
+https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 `;
 
 let urls = [];
@@ -835,6 +835,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
