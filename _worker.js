@@ -32,6 +32,8 @@ vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&
 hysteria2://CgZ1HGtFSifpPeYo0hcj2L33azM@8.209.224.182:32761?sni=bing.com&insecure=1#JP-Aliyun-1
 hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=1#JP-Aliyun-2
 hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
+https://azsg.cfapps.ap21.hana.ondemand.com/lvc123456
+https://gcp-ustsjfuw.cfapps.us30.hana.ondemand.com/lvc123456
 `;
 
 let urls = [];
@@ -832,6 +834,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
