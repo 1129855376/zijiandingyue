@@ -36,6 +36,9 @@ vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&
 https://azsg.cfapps.ap21.hana.ondemand.com/lvc123456
 https://gcp-ustsjfuw.cfapps.us30.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6keS4iiBVUyIsDQogICJhZGQiOiAieXVuc2hhbmc5MS52Y2N2Lm55Yy5tbiIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogIjNmYWM0NzVhLTIwZTktNDc2Yy1jNzdlLWJkOThmYjY0MGQwMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+hysteria2://3060de0b-67a9-4094-bfbb-e7bf83e4d2a5@yunshang91.vccv.nyc.mn:20000?sni=www.bing.com&alpn=h3&insecure=1#%E4%BA%91%E4%B8%8A%20US%20Hy2
+
 `;
 
 let urls = [];
@@ -836,6 +839,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
