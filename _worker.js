@@ -33,7 +33,7 @@ hysteria2://CgZ1HGtFSifpPeYo0hcj2L33azM@8.209.224.182:32761?sni=bing.com&insecur
 hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=1#JP-Aliyun-2
 hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
 vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=svSnbvtgScEelEnVeBi-e6FY3mxl4iiC0Wq9tH0AhmY&sid=9433eb0fe2e79462&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20US
-https://aws-sgmizfjx.cfapps.ap11.hana.ondemand.com/lvc123456
+https://az-brqkwvsp.cfapps.br20.hana.ondemand.com/lvc123456
 https://gcp-ustsjfuw.cfapps.us30.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6keS4iiBVUyIsDQogICJhZGQiOiAieXVuc2hhbmc5MS52Y2N2Lm55Yy5tbiIsDQogICJwb3J0IjogIjEwMDAxIiwNCiAgImlkIjogIjNmYWM0NzVhLTIwZTktNDc2Yy1jNzdlLWJkOThmYjY0MGQwMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
@@ -839,6 +839,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
