@@ -32,6 +32,8 @@ hysteria2://CgZ1HGtFSifpPeYo0hcj2L33azM@8.209.224.182:32761?sni=bing.com&insecur
 hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=1#JP-Aliyun-2
 hysteria2://by8UHKJ58MfrE5diHonjLoLuFDQ@13.114.130.253:33534?sni=bing.com&insecure=1#JP-ISP-1
 hysteria2://1IcJeSkp0DcTuJngEsqgE2Xdyo@54.199.16.217:32108?sni=bing.com&insecure=1#JP-ISP-2
+hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldEpldHQgVVMiLA0KICAiYWRkIjogIlsyYTE0OjY3YzE6YTA3MDo0Ojo5N10iLA0KICAicG9ydCI6ICIxMDAwMSIsDQogICJpZCI6ICJkYTI5NzBlYy1iOGU4LTRmNTMtODQ2OC04ZGI2ZDliOWE1ZjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://cea24c65-036c-4f7c-bd9d-e3bc91fca7a9@162.19.205.63:47508?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=DtKb_CfofNSsvWm2Dry7APvRoytMaQAsYvCfr1Sqk2g&sid=f7241416d6bd7ee1&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20DE
 vless://aa28644d-b072-406f-8b15-395dac427854@51.79.144.188:50668?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LRC26kAUNaTcxTrSr7bGxVpUNedrF1mO6VPhX8wKmRg&sid=aadcbc5a009a4b7c&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20SG
@@ -841,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
