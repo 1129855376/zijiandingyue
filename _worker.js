@@ -19,7 +19,7 @@ ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@[2a01:4f8:161:239a:400a::]:35653#%E5%9
 ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@nateg2.bytevirt.net:35653#%E5%9F%83%E5%8F%8A
 hysteria2://03a81a89-e4dc-49b9-905c-a0ad381735cf@[2a01:4f8:161:239a:400a::]:35670?sni=www.bing.com&alpn=h3&insecure=1#%E5%9F%83%E5%8F%8AC
 
-https://aws-brnkzbao.cfapps.br10.hana.ondemand.com/lvc123456
+https://gcp-savzrldd.cfapps.sa31.hana.ondemand.com/lvc123456
 https://gcp-ustsjfuw.cfapps.us30.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 vless://648bcf73-b0b4-42bd-bca9-08f8c971ef24@216.167.28.205:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=ENLzo50h-ZIVfCOIdBi0cEjd0KVr5_M24S1a5WPUdgI&sid=9b088677aea071ee&type=tcp&headerType=none#Firadio%20US
@@ -843,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
