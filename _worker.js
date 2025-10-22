@@ -22,24 +22,24 @@ hysteria2://03a81a89-e4dc-49b9-905c-a0ad381735cf@[2a01:4f8:161:239a:400a::]:3567
 https://gcp-savzrldd.cfapps.sa31.hana.ondemand.com/lvc123456
 https://aws-jpetipsw.cfapps.jp10.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
-vless://648bcf73-b0b4-42bd-bca9-08f8c971ef24@216.167.28.205:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=ENLzo50h-ZIVfCOIdBi0cEjd0KVr5_M24S1a5WPUdgI&sid=9b088677aea071ee&type=tcp&headerType=none#Firadio%20US
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiAgeeOiyBDQSIsDQogICJhZGQiOiAiMTU1LjI0OC4yMzYuNzQiLA0KICAicG9ydCI6ICIzMjc3NyIsDQogICJpZCI6ICJkZWQ1YzhmYy01OTZkLTQ1ODAtYmUyYi0wNjM2NGQyYTY1YzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-hysteria2://4593f1c6-cc3d-4d74-bbe0-ec42e631d242@yunshang112.vccv.nyc.mn:9571?sni=www.bing.com&alpn=h3&insecure=1#%E4%BA%91%E4%B8%8A%20US
-vless://c68dd61d-b71a-47ef-a894-fe48244e9600@yunshang112.vccv.nyc.mn:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=lMH-nD15o6Glryrw6Xa-836blHKSbOL3Tim_Q4v5lVQ&sid=de6dc6dc87f7d89c&type=tcp&headerType=none#%E4%BA%91%E4%B8%8A%20US
-vless://77e80aa0-2878-4e7b-b054-fe995cdc988c@151.242.153.44:11861?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=4Lhn0QWlFCKdfKj3AJpJqUCNNpFse_licHDp1iggX10&sid=46d9d96e72812041&type=tcp&headerType=none#cloudcat%20HK1
-vless://619e7666-aa29-4c5b-b8b7-124da5c7a394@151.242.153.46:63152?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=9HMp7JN4AthuzwH-dBIAOWKNp-hJ7rNfPVvPJ6rIWho&sid=0aa0b59058b6ff95&type=tcp&headerType=none#cloudcat%20HK2
+
+vless://b8716f57-21b5-44b9-ae17-5791c413f23a@209.146.116.229:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=Ou7TVT7SFzGu_kDdjorb-SlyUXnWezVZ_dm-8TwzeE0&sid=3b2be459651d7cc1&type=tcp&headerType=none#US-VMRack
+hysteria2://1e551b2d-9f29-4b4e-a2cd-dd46a2cc95f5@209.146.116.229:28880?sni=www.bing.com&alpn=h3&insecure=1#US-VMRack
+vless://648bcf73-b0b4-42bd-bca9-08f8c971ef24@216.167.28.205:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=ENLzo50h-ZIVfCOIdBi0cEjd0KVr5_M24S1a5WPUdgI&sid=9b088677aea071ee&type=tcp&headerType=none#US-Firadio%20
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLeiAgeeOiyIsDQogICJhZGQiOiAiMTU1LjI0OC4yMzYuNzQiLA0KICAicG9ydCI6ICIzMjc3NyIsDQogICJpZCI6ICJkZWQ1YzhmYy01OTZkLTQ1ODAtYmUyYi0wNjM2NGQyYTY1YzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+hysteria2://4593f1c6-cc3d-4d74-bbe0-ec42e631d242@yunshang112.vccv.nyc.mn:9571?sni=www.bing.com&alpn=h3&insecure=1#US-%E4%BA%91%E4%B8%8A%20
+vless://c68dd61d-b71a-47ef-a894-fe48244e9600@yunshang112.vccv.nyc.mn:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=lMH-nD15o6Glryrw6Xa-836blHKSbOL3Tim_Q4v5lVQ&sid=de6dc6dc87f7d89c&type=tcp&headerType=none#US-%E4%BA%91%E4%B8%8A%20
+vless://77e80aa0-2878-4e7b-b054-fe995cdc988c@151.242.153.44:11861?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=4Lhn0QWlFCKdfKj3AJpJqUCNNpFse_licHDp1iggX10&sid=46d9d96e72812041&type=tcp&headerType=none#HKA-cloudcat
+vless://619e7666-aa29-4c5b-b8b7-124da5c7a394@151.242.153.46:63152?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=9HMp7JN4AthuzwH-dBIAOWKNp-hJ7rNfPVvPJ6rIWho&sid=0aa0b59058b6ff95&type=tcp&headerType=none#HKB--cloudcat
 hysteria2://CgZ1HGtFSifpPeYo0hcj2L33azM@8.209.224.182:32761?sni=bing.com&insecure=1#JP-Aliyun-1
 hysteria2://GjNdjHZE8Dcv7yepcMX3wbNKNw@8.209.233.88:15587?sni=bing.com&insecure=1#JP-Aliyun-2
 hysteria2://by8UHKJ58MfrE5diHonjLoLuFDQ@13.114.130.253:33534?sni=bing.com&insecure=1#JP-ISP-1
 hysteria2://1IcJeSkp0DcTuJngEsqgE2Xdyo@54.199.16.217:32108?sni=bing.com&insecure=1#JP-ISP-2
 hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldEpldHQgVVMiLA0KICAiYWRkIjogIlsyYTE0OjY3YzE6YTA3MDo0Ojo5N10iLA0KICAicG9ydCI6ICIxMDAwMSIsDQogICJpZCI6ICJkYTI5NzBlYy1iOGU4LTRmNTMtODQ2OC04ZGI2ZDliOWE1ZjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://cea24c65-036c-4f7c-bd9d-e3bc91fca7a9@162.19.205.63:47508?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=DtKb_CfofNSsvWm2Dry7APvRoytMaQAsYvCfr1Sqk2g&sid=f7241416d6bd7ee1&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20DE
-vless://aa28644d-b072-406f-8b15-395dac427854@51.79.144.188:50668?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LRC26kAUNaTcxTrSr7bGxVpUNedrF1mO6VPhX8wKmRg&sid=aadcbc5a009a4b7c&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20SG
-vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=svSnbvtgScEelEnVeBi-e6FY3mxl4iiC0Wq9tH0AhmY&sid=9433eb0fe2e79462&type=tcp&headerType=none#Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0%20US
-hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecure=1#SGP-Aliyun-1
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInN0cmF0byBISyIsDQogICJhZGQiOiAiWzI0MDE6YjYwOjI4OjoxYjVdIiwNCiAgInBvcnQiOiAiMzMxMjEiLA0KICAiaWQiOiAiZTJhNzZmZjYtM2UzZC00OWI4LWVhN2EtOWMzYjZlYTk0MjVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://cea24c65-036c-4f7c-bd9d-e3bc91fca7a9@162.19.205.63:47508?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=DtKb_CfofNSsvWm2Dry7APvRoytMaQAsYvCfr1Sqk2g&sid=f7241416d6bd7ee1&type=tcp&headerType=none#DE-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
+vless://aa28644d-b072-406f-8b15-395dac427854@51.79.144.188:50668?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LRC26kAUNaTcxTrSr7bGxVpUNedrF1mO6VPhX8wKmRg&sid=aadcbc5a009a4b7c&type=tcp&headerType=none#SG-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
+vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=svSnbvtgScEelEnVeBi-e6FY3mxl4iiC0Wq9tH0AhmY&sid=9433eb0fe2e79462&type=tcp&headerType=none#US-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhLLXN0cmF0byIsDQogICJhZGQiOiAiWzI0MDE6YjYwOjI4OjoxYjVdIiwNCiAgInBvcnQiOiAiMzMxMjEiLA0KICAiaWQiOiAiZTJhNzZmZjYtM2UzZC00OWI4LWVhN2EtOWMzYjZlYTk0MjVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 hysteria2://h4zyPJ57tYlE7ibUWilUQiGcMgI@35.88.70.218:15575?sni=bing.com&insecure=1#US-ISP-2
 hysteria2://lnceB65MNXHPbEXXf3y6aQQ5R4@54.70.55.105:33564?sni=bing.com&insecure=1#US-ISP-3
 vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=5AyK6vk9X1Srkv_Dwu441iyiV4D2nxRtPS5_AgOGkyc&sid=c68ad17061252d77&type=tcp&headerType=none#VMRack%20US
@@ -843,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
