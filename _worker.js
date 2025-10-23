@@ -13,11 +13,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@77.90.28.131:54501#%E5%9F%83%E5%8F%8AA%EF%BC%8856DE%E8%BD%AC%E5%8F%91%EF%BC%89
-ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@43.142.105.127:3520#%E5%9F%83%E5%8F%8AB%EF%BC%88mjj%E9%9A%A7%E9%81%93%E8%BD%AC%E5%8F%91%EF%BC%89
-ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@[2a01:4f8:161:239a:400a::]:35653#%E5%9F%83%E5%8F%8A
-ss://YWVzLTI1Ni1nY206bjl5Z1pJcnJ2OQ%3D%3D@nateg2.bytevirt.net:35653#%E5%9F%83%E5%8F%8A
-hysteria2://03a81a89-e4dc-49b9-905c-a0ad381735cf@[2a01:4f8:161:239a:400a::]:35670?sni=www.bing.com&alpn=h3&insecure=1#%E5%9F%83%E5%8F%8AC
 
 https://gcp-savzrldd.cfapps.sa31.hana.ondemand.com/lvc123456
 https://aws-jpetipsw.cfapps.jp10.hana.ondemand.com/lvc123456
@@ -40,7 +35,6 @@ hysteria2://BKvVulvYYHJsPQdCkv8f62IDOaY@47.237.182.250:31069?sni=bing.com&insecu
 vless://cea24c65-036c-4f7c-bd9d-e3bc91fca7a9@162.19.205.63:47508?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=DtKb_CfofNSsvWm2Dry7APvRoytMaQAsYvCfr1Sqk2g&sid=f7241416d6bd7ee1&type=tcp&headerType=none#DE-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
 vless://aa28644d-b072-406f-8b15-395dac427854@51.79.144.188:50668?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LRC26kAUNaTcxTrSr7bGxVpUNedrF1mO6VPhX8wKmRg&sid=aadcbc5a009a4b7c&type=tcp&headerType=none#SG-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
 vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=svSnbvtgScEelEnVeBi-e6FY3mxl4iiC0Wq9tH0AhmY&sid=9433eb0fe2e79462&type=tcp&headerType=none#US-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhLLXN0cmF0byIsDQogICJhZGQiOiAiWzI0MDE6YjYwOjI4OjoxYjVdIiwNCiAgInBvcnQiOiAiMzMxMjEiLA0KICAiaWQiOiAiZTJhNzZmZjYtM2UzZC00OWI4LWVhN2EtOWMzYjZlYTk0MjVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 hysteria2://h4zyPJ57tYlE7ibUWilUQiGcMgI@35.88.70.218:15575?sni=bing.com&insecure=1#US-ISP-2
 hysteria2://lnceB65MNXHPbEXXf3y6aQQ5R4@54.70.55.105:33564?sni=bing.com&insecure=1#US-ISP-3
 vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=5AyK6vk9X1Srkv_Dwu441iyiV4D2nxRtPS5_AgOGkyc&sid=c68ad17061252d77&type=tcp&headerType=none#VMRack%20US
@@ -844,6 +838,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
