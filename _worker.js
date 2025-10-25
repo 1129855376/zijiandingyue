@@ -18,6 +18,7 @@ https://gcp-savzrldd.cfapps.sa31.hana.ondemand.com/lvc123456
 https://aws-jpetipsw.cfapps.jp10.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 
+vless://fae76d85-ae53-4206-9242-4dd97b0ab74a@43.209.231.87:11010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=bjWy3YudvpsdyU2SJ-H2lFmUm5w3-_eQe2gdvETi_Tk&sid=3e868d65c4402f50&type=tcp&headerType=none#TH-AWS%EF%BC%88%E6%B3%B0%E5%9B%BD%EF%BC%89
 vless://5cae50ce-5fd8-4961-a34b-52e75b8ad26e@40.172.236.90:11000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=3cBIbSrwYVsYQwHqnYIvw_8CH4ZfeGL_ZlVzde2Mtm0&sid=571a3b98d4717b4e&type=tcp&headerType=none#AWS%20AE
 vless://b8716f57-21b5-44b9-ae17-5791c413f23a@209.146.116.229:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=Ou7TVT7SFzGu_kDdjorb-SlyUXnWezVZ_dm-8TwzeE0&sid=3b2be459651d7cc1&type=tcp&headerType=none#US-VMRack
 hysteria2://1e551b2d-9f29-4b4e-a2cd-dd46a2cc95f5@209.146.116.229:28880?sni=www.bing.com&alpn=h3&insecure=1#US-VMRack
@@ -838,6 +839,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
