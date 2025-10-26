@@ -39,6 +39,10 @@ vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&
 hysteria2://h4zyPJ57tYlE7ibUWilUQiGcMgI@35.88.70.218:15575?sni=bing.com&insecure=1#US-ISP-2
 hysteria2://lnceB65MNXHPbEXXf3y6aQQ5R4@54.70.55.105:33564?sni=bing.com&insecure=1#US-ISP-3
 vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=5AyK6vk9X1Srkv_Dwu441iyiV4D2nxRtPS5_AgOGkyc&sid=c68ad17061252d77&type=tcp&headerType=none#VMRack%20US
+
+vless://8dfee3cd-968b-4466-997c-6aa6b018b79b@165.154.217.87:18888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=9C-1FKFEipagZ4Y2k3p6ON7MtGEkBEfQ8A_cFE6VUBk&sid=f0259405d1c25162&type=tcp&headerType=none#AE-Scloud
+hysteria2://3b0cb22c-ad94-4654-9993-5d6fbedb8800@165.154.217.87:28888?sni=www.bing.com&alpn=h3&insecure=1#AE-Scloud
+
 `;
 
 let urls = [];
@@ -839,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
