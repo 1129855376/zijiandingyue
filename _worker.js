@@ -14,7 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 
-https://gcp-savzrldd.cfapps.sa31.hana.ondemand.com/lvc123456
+https://hamad.cfapps.sa31.hana.ondemand.com/lvc123456
 https://aws-jpetipsw.cfapps.jp10.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 
@@ -843,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
