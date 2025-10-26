@@ -15,7 +15,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 
 https://hamad.cfapps.sa31.hana.ondemand.com/lvc123456
-https://aws-jpetipsw.cfapps.jp10.hana.ondemand.com/lvc123456
+https://wei-guge113.cfapps.br10.hana.ondemand.com/lvc123456
 https://aws-jpmfpwrw.cfapps.jp10.hana.ondemand.com/lvc123456
 
 vless://fae76d85-ae53-4206-9242-4dd97b0ab74a@43.209.231.87:11010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=bjWy3YudvpsdyU2SJ-H2lFmUm5w3-_eQe2gdvETi_Tk&sid=3e868d65c4402f50&type=tcp&headerType=none#TH-AWS%EF%BC%88%E6%B3%B0%E5%9B%BD%EF%BC%89
@@ -843,6 +843,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
