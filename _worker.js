@@ -19,7 +19,6 @@ https://wei-113guge.cfapps.br10.hana.ondemand.com/lvc123456
 https://hamad07100-91.cfapps.jp10.hana.ondemand.com/lvc123456
 
 vless://fae76d85-ae53-4206-9242-4dd97b0ab74a@43.209.231.87:11010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=bjWy3YudvpsdyU2SJ-H2lFmUm5w3-_eQe2gdvETi_Tk&sid=3e868d65c4402f50&type=tcp&headerType=none#TH-AWS%EF%BC%88%E6%B3%B0%E5%9B%BD%EF%BC%89
-vless://5cae50ce-5fd8-4961-a34b-52e75b8ad26e@40.172.236.90:11000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=3cBIbSrwYVsYQwHqnYIvw_8CH4ZfeGL_ZlVzde2Mtm0&sid=571a3b98d4717b4e&type=tcp&headerType=none#AWS%20AE
 vless://b8716f57-21b5-44b9-ae17-5791c413f23a@209.146.116.229:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=Ou7TVT7SFzGu_kDdjorb-SlyUXnWezVZ_dm-8TwzeE0&sid=3b2be459651d7cc1&type=tcp&headerType=none#US-VMRack
 hysteria2://1e551b2d-9f29-4b4e-a2cd-dd46a2cc95f5@209.146.116.229:28880?sni=www.bing.com&alpn=h3&insecure=1#US-VMRack
 vless://648bcf73-b0b4-42bd-bca9-08f8c971ef24@216.167.28.205:18880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=ENLzo50h-ZIVfCOIdBi0cEjd0KVr5_M24S1a5WPUdgI&sid=9b088677aea071ee&type=tcp&headerType=none#US-Firadio%20
@@ -38,7 +37,6 @@ vless://aa28644d-b072-406f-8b15-395dac427854@51.79.144.188:50668?encryption=none
 vless://9dce216e-879c-4091-b916-d4a668900ca5@192.9.245.84:50001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=svSnbvtgScEelEnVeBi-e6FY3mxl4iiC0Wq9tH0AhmY&sid=9433eb0fe2e79462&type=tcp&headerType=none#US-Oracle%E5%AD%B5%E5%8C%96%E5%9F%BA%E5%9C%B0
 hysteria2://h4zyPJ57tYlE7ibUWilUQiGcMgI@35.88.70.218:15575?sni=bing.com&insecure=1#US-ISP-2
 hysteria2://lnceB65MNXHPbEXXf3y6aQQ5R4@54.70.55.105:33564?sni=bing.com&insecure=1#US-ISP-3
-vless://9262d468-15dc-4439-a5fc-ed8c4e13caa0@154.51.40.235:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=5AyK6vk9X1Srkv_Dwu441iyiV4D2nxRtPS5_AgOGkyc&sid=c68ad17061252d77&type=tcp&headerType=none#VMRack%20US
 
 vless://8dfee3cd-968b-4466-997c-6aa6b018b79b@165.154.217.87:18888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=9C-1FKFEipagZ4Y2k3p6ON7MtGEkBEfQ8A_cFE6VUBk&sid=f0259405d1c25162&type=tcp&headerType=none#AE-Scloud
 hysteria2://3b0cb22c-ad94-4654-9993-5d6fbedb8800@165.154.217.87:28888?sni=www.bing.com&alpn=h3&insecure=1#AE-Scloud
@@ -843,6 +841,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 		});
 	}
 }
+
 
 
 
